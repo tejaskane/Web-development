@@ -1,0 +1,23 @@
+/* This is a comment */
+
+/* Basic syntax of css
+  Selected tag{
+    property : value;
+  }
+*/
+
+h1{
+  color: green;
+}
+
+li{
+  color: rgb(50, 56, 168);
+}
+
+p{
+  color: #a85032;
+}
+
+h4{
+  color: rgba(50, 56, 168, 0.5);
+}

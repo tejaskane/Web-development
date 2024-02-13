@@ -1,0 +1,14 @@
+body{
+  background-image: url(https://images.wallpapersden.com/image/download/dark-boy-hd-anime-minimal_bmZpZ2uUmZqaraWkpJRnZm1prWZnZ2k.jpg);
+  color: white;
+  background-repeat: no-repeat;
+}
+div{
+  background-color: grey;
+  border-color: white;
+  border-style: double;
+  border-width: 10px;
+}
+span{
+  background-color: red;
+}
