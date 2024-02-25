@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  border-right: 50px solid #52c2eb;
+  border-left: 50px solid #52c2eb;
+  border-bottom: 50px solid #52c2eb;
+  background-color: #09048a;
+  color: white;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 10px
+}
+
+form p{
+  margin: 0;
+}
+
+input{
+  margin-bottom: 7px;
+}
+
+#sub{
+  height: 40px;
+  margin-bottom: 0px;
+  background-color: #db9b1a;
+  border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+.btn-danger{
+  background-color: purple;
+  border-radius: 10px;
+}
+
+.btn-danger:hover{
+  background-color: orange;
+  color: red;
+}
+
+form{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+.form-check{
+  text-align: left;
+  margin-left: 10px;
+}
+
+nav{
+  color:white;
+}
+
+div{
+  border: 1px solid blue;
+}

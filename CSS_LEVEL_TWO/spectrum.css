@@ -1,0 +1,45 @@
+h1{
+  font-family: "Honk", system-ui;
+  text-align: center;
+}
+
+#yellow{
+  border: 1px solid #FFBE0B;
+  width: 200px;
+  height: 300px;
+  background-color: #FFBE0B;
+}
+
+#orange{
+  border: 1px solid #FB5607;
+  width: 200px;
+  height: 300px;
+  background-color: #FB5607;
+  }
+
+#pink{
+  border: 1px solid #FF006E;
+  width: 200px;
+  height: 300px;
+  background-color: #FF006E;
+}
+
+#purple{
+  border: 1px solid #8338EC;
+  width: 200px;
+  height: 300px;
+  background-color: #8338EC;
+}
+
+#blue{
+  border: 1px solid #3A86FF;
+  width: 200px;
+  height: 300px;
+  background-color: #3A86FF;
+}
+
+table{
+  text-align: center;
+  margin: auto;
+  border-spacing: 10px;
+}
