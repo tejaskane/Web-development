@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  margin: auto;
+}
+
+div{
+  border: 1px grey solid;
+  background-color: grey;
+  padding: 30px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  font-size: 3em;
+  text-align: center;
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: center;
+  height: 100px;
+  width: 100px;
+}
