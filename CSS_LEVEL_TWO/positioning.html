@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Positioning</title>
+    <style>
+      .container{
+        border: 3px solid red;
+        margin: 10px;
+        padding: 20px;
+      }
+      .fixed{
+        border: 3px solid blue;
+        position: fixed;
+        left: 0px;
+        top:0px;
+      }
+      .relative{
+        border: 3px solid black;
+        height: 100px;
+        position: relative;
+        left: 20px;
+      }
+      .absolute{
+        border: 3px dashed orange;
+        height: 50px;
+        position: absolute;
+        right: 5px;
+        top: 30px;
+      }
+      .sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        padding: 5px;
+        background-color: #cae8ca;
+        border: 2px solid #4CAF50;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="fixed">Fixed</div>
+        <div class="relative">Relative
+          <div class="absolute">Absolute</div>
+        </div>
+        <div class="sticky">Sticky</div>
+    </div>
+
+  </body>
+</html>
